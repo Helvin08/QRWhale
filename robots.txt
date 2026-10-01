@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://qrwhale.com/sitemap.xml
+Sitemap: https://qrwhale.vercel.app/sitemap.xml
